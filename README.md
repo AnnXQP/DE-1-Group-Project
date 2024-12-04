@@ -13,3 +13,4 @@ Weather data (average temperature, moon phase, weather description, and dates) f
 - Data Manipulations conducted in KNIME with a focus on cleaning, integration, and transformation.
 - Illustrated findings with graphs to compare gym participation rates across cities, subsription type, 
 - Applied K-Means Clustering to analyze gym attendance preferences in New York, focusing on factors such as the day of the week, attendance frequency, average calories burned, workout type preferences, and average exercise duration.
+![Screenshot 2024-12-04 at 22 27 07](https://github.com/user-attachments/assets/bc79e431-0543-4b9f-be9b-c63bde014387)
