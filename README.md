@@ -1,4 +1,4 @@
-# README for 
+# README
 
 ## Data Sources:
 - Gym Check-ins and User Metadata Dataset: Extracted from Kaggle, relational in nature.
